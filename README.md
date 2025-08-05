@@ -1,29 +1,27 @@
 # Mini Project
 
-## Tech environment setup
+## tools to download and account to be setup
 
-### tools to download and account setup
-
-### AWS Acount
+## AwS Account
 
 ![aws account](./Img/Aws.png)
 
-## Git Hub Account
+## Git Hub
 
-![git hub account](./Img/Git%20hub.png)
+![git hub](./Img/Git%20hub.png)
 
-## Git Bash App
+## Git Bash
 
-![git bash app](./Img/Git%20bash.png)
+![git bash](./Img/Git%20bash.png)
 
-## Visual Code App
+## VisualCode
 
-![visual code app](./Img/Visual%20code.png)
+![visualcode](./Img/Visual%20code.png)
 
-## Virtualbox App
+## VirtualBox
 
-![virtualbox app](./Img/Virtualbox.png)
+![virtualbox](./Img/Virtualbox.png)
 
+## Ubuntu
 
-
-
+![ubuntu](./Img/Ubuntu2.png)
